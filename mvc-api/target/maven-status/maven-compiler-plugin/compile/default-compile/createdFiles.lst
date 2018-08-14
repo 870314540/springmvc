@@ -1,0 +1,3 @@
+com/test/api/result/UserVO.class
+com/test/api/service/IUserService.class
+com/test/api/param/UserBO.class
